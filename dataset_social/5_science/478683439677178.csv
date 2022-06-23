@@ -1,0 +1,101 @@
+478683453010510,
+491475501731305,VNBDC – Góc tin tức ngày 11/03/2020
+483321152546740,Batch Processing vs Stream Processing
+482841175928071,
+482718652606990,VNBDC – Góc tin tức ngày 25/02/2020
+481132189432303,VNBDC – Góc tin tức ngày 23/02/2020
+480515659493956,Các ứng dụng của Dữ liệu lớn (Big Data Use Cases)
+479415349603987,
+478921539653368,"Cộng đồng của những người Việt Nam yêu thích và có niềm đam mê với các dự án, công nghệ xử lý, lưu trữ dữ liệu lớn (Big Data). Nơi thảo luận, chia sẻ thông tin, kiến thức, kinh nghiệm, ý tưởng liên quan đến Big Data của các Big Data Engineer, Big Data Architect. Nếu bạn cảm thấy những từ khóa như Hadoop, Spark, Kafka, ... hấp dẫn bạn, đây là nơi bạn có thể thảo luận mọi thứ về chúng."
+489146131964242,Một bài viết cũ publish năm 2017 nhưng vẫn rất có giá trị cho các bạn mới vào nghề Big Data và không biết phải start từ đâu 
+489674268578095,"Chúc mừng 8/3 chị em trong group, một phần không thể thiếu của thế giới & cộng đồng Big Data. Paste lại link 1 site dành riêng cho chị em  "
+486998882178967,Lambda và Kappa - 2 kiến trúc xử lý dữ liệu lớn (Big Data Processing Architectures)
+488390015373187,
+478985362980319,Khái niệm về Dữ liệu lớn (Big Data)
+486700385542150,Hadoop Overview
+484223802456475,VNBDC – Góc tin tức ngày 28/02/2020
+491263611752494,"Hi cả nhà,Mình vừa lập 1 group chuyên về analytics. Điểm khác biệt so với group hiện tại là chuyên về mảng Big Data Technology.Còn group mới thì chuyên về các ứng dụng analytics trên nền Big data.Chia sẻ các kinh nghiệm xây dựng team hoặc organization data-driven making decision. Chia sẻ các bài viết liên quan đến ứng dụng phân tích dữ liệu lớn trong doanh nghiệp. Chia sẻ các định hướng về nghề Data Scientist, Data analyst.Cả nhà cùng vào chia sẻ nhé."
+490889685123220,Giới thiệu Apache NiFi
+488427638702758,VNBDC – Góc tin tức ngày 06/03/2020
+487292958816226,Kafka và Hệ thống xử lý dữ liệu hướng sự kiện (Event - Driven Systems)
+488770338668488,Rebalancing HDFS Cluster
+490017558543766,NOSQL - FROM ZERO TO HERO
+493638604848328,NOSQL - FROM ZERO TO HERO
+496640754548113,Kafka và Hệ thống xử lý dữ liệu hướng sự kiện (Event - Driven Systems) - phần 3
+491618391717016,Kafka và Hệ thống xử lý dữ liệu hướng sự kiện (Event - Driven Systems) - phần 2
+495895651289290,
+495635087982013,So sánh Hadoop 3 vs Hadoop 2 – 10 điểm khác biệt cơ bản
+493555681523287,Data Governance - Role & Responsibilities 
+490224875189701,"Một câu hỏi thường hỏi là “Dữ liệu thế nào gọi là LỚN”, trong bài  cũng đã có nhiều comment đến từ các chiến sỹ trong group. Hôm nay đọc thấy có cái này, share lại cho ace cần tư liệu viết bài . Link: "
+498480401030815,Big Data Lanscape 2019 của Matt Turck. Cắt lại một phần ảnh liên quan đến Open Source. Ace control được bao nhiêu công nghệ trong danh sách này rồi Src: 
+498048641073991,NiFi - kiến trúc hệ thống và cài đặt thử nghiệm
+501003474111841,"Hi, em xin chào các anh, em. Em mới tiếp cận với Big data, em muốn hỏi là với hadoop thì mn hay sử dụng ETL Automation testing tool nào, và vì sao ạ"
+500762180802637,NiFi - Database to HDFS
+499354047610117,HDFS Architecture So sánh Hadoop 3 vs Hadoop 2 – 10 điểm khác biệt cơ bản
+499263854285803,Một chút về SQL nhé các bạn ^^
+482114996000689,Kiến trúc dữ liệu lớn (Big Data Architecture)
+504944747051047,"Dạ chào mọi người, có ai đã sử dụng mapD (OMNISCI) chưa ạ. Em cài và thử sử dụng theo link này:Nhưng đến bước enable mapd_server thì không đượcMn ai gặp rồi cho em xin cách fix với ạ, em có search gg rồi nhưng vẫn ko tìm ra cách. Em cảm ơn mn nhiều ạ."
+503891523823036,Apache Atlas -  Khái quát công cụ open-source hỗ trợ Data Governance 
+504354173776771,Luồng đọc ghi file trong HDFS
+492400401638815,How to optimize HDFS Balancer
+502779507267571,
+498044274407761,NOSQL - FROM ZERO TO HERO 
+501294827416039,Kafka và Hệ thống xử lý dữ liệu hướng sự kiện (Event - Driven Systems) - phần 5
+505144273697761,Kafka và Hệ thống xử lý dữ liệu hướng sự kiện (Event - Driven Systems) - phần cuối
+505530030325852,NiFi - Sự kết hợp với Kafka
+507617046783817,"Chào mn, em đang tìm hiểu về Kafka. Em đang chạy kafka server thì hiện lỗi ""Address already in use"" ở port 9092. Nhưng em tìm ko thấy process nào đang chạy có port 9092 cả. Mn ai gặp rồi cho e xin cách fix với ạ. Em cảm ơn mn."
+505600540318801,
+509223153289873,"Webinar của CloudEra; các bạn nếu có thời gian thì tham gia nhéIn this live showcase for APAC partners, learn why your customer’s journey to our new product, Cloudera Data Platform (CDP) is important to our joint success.We’ll show you how to move your customers’ current installations of Cloudera Data Hub (CDH) or Hortonworks Data Platform (HDP) to CDP with various scenarios on when to upgrade versus migrate.We will also demo the latest product, share the roadmap for Cloudera Data Flow (CDF), and go through best practices and types of services that you can offer to your customers to help them with their journey to CDP.Tuesday April 14, 2020 3 PM in SingaporeRegister for this webinar:    After registering, you will receive a confirmation email containing information about joining the webinar."
+508923636653158,"Dạ chào mn, Ai rành bash shell cho e hỏi xíu được ko ạ. E đã cài $JAVA_HOME ở thư mục ""/home/ryyn/.sdkman/candidates/java/current"" rồi nhưng sao khi chạy bash shell này thì nó lại chạy vào thư mục khác ạ. Mặc dù e đã xóa thư mục đó luôn rồi. E để ảnh ở cmt ạ."
+507722200106635,NOSQL - FROM ZERO TO HERO
+506156043596584,
+510098723202316,Apache Spark Fundamentals - Phần 1
+508241023388086,NameNode High Availability with QJM
+489320275280161,Data Governance Overview - Làm chủ tài nguyên dữ liệu
+509505449928310,Sử dụng định dạng AVRO cho Kafka Data
+509547653257423,"Những năm tháng đi du học, luôn nung nấu ý tưởng truyền lại những tri thức về lập trình đã học trong suốt 15 năm qua.... Để trở thành một Data Scientist giỏi, ngoài việc nắm vững các mô hình toán, các loại dữ liệu, các tool, framework thì còn phải sở hữu một kỹ năng lập trình chắc tay, tinh gọn và tối ưu. Nhân dịp mùa dịch corona, tranh thủ làm các videos này, cũng một phần đồng thời dùng để tự ôn tập cho chính mình trong tương lai. Những tri thức đã học và thu lượm được trong quá trình làm việc ở các công ty đa quốc gia, viện nghiên cứu cũng sẽ được chia sẻ xuyên suốt tại đây..."
+509351103277078,"Dạ chào mn, Cho e hỏi là sao e chạy cái này nó luôn yêu cầu mật khẩu thế ạ, cho dù e nhập đúng mk nó vẫn báo ""Permission denied"" Em có thử cấu hình trong file sshd_config rồi nhưng nó vẫn bị ạ  Ai biết cách fix cmt cho e với. E cảm ơn mn"
+511870383025150,"Em chào anh chị ạ, Em đang tự học bigdata với hadoop trên eclipse, e cài hadoop 3.1.3 xong và chạy thử demo file .jar thì nó ko ra kết quả mà cứ bị như thế này ạ :( Em đã search google lòi mắt mà vẫn k tìm dc giải pháp. Mong các anh chị nào giúp đỡ ạ. Em cám ơn trước ạ."
+511996569679198,"Chào anh/ chị, Em mới học hadoop, em compile java code thì bị lỗi như vầy em search google nhưng vẫn chưa tìm ra được nguyên nhân và cách fix. Nhờ anh/ chị hướng dẫn giúp em với ạ. Em cảm ơn ạ."
+510524096493112,"Chẳng mấy khi mới free, không biết có phải do Covid19 không . Ace nào quan tâm thì đặt gạch đi nhé. "
+513304549548400,Sử dụng giải thuật đồ thị để tối ưu hoạt động của Kafka - phần 2
+514135059465349,"NiFi Registry - giới thiệu, cài đặt và thử nghiệm"
+512056206339901,NOSQL - FROM ZERO TO HERO
+508854036660118,Sử dụng giải thuật đồ thị để tối ưu hoạt động của Kafka - phần 1
+520466948832160,Hadoop Security Introduction
+519251742287014,Apache Spark Fundamentals - Phần 3: Spark SQL với DataFrame và DataSet  
+516751382537050,APACHE HIVE  TUTORIAL
+517227255822796,
+515423216003200,"Em chào mn, mn có ai gặp lỗi này chưa ạ.Em đang muốn cài đặt hiveserver để connect bên ngoài với DBear ạ.Em cũng đã tắt tường lửa và search các lỗi trên stackoverflow mà vẫn không được ạ  Mn gặp lỗi này rồi cho e xin cách fix hay là đã từng cài đặt hiveserver rùi thi có thể xem hộ em conf của em đã đúng chưa với ạ.Em conf theo doc : Em cảm ơn mn."
+515141162698072,"Dạ chào mn, mn có ai gặp lỗi này chưa ạ.  Mặc dù e đã set JAVA_HOME ở một path khác nhưng khi chạy nó vãn chạy vào path cũ Kể cả em đã xóa luôn path cũ vẫn thế ạ Em có thử dùng alternatives nhưng vẫn k ăn thua. Mn gặp lỗi này rồi cho e xin cách fix với ạ.  Em cảm ơn mn."
+514095016136020,"Anh em cho hỏi có platform big data nào chuyên cho dữ liệu multimedia và ảnh không ? Dữ liệu của mình là ảnh kích thước to như ảnh vệ tinh, cần tracking di chuyển của tàu thuyềnHDFS Architecture "
+521753765370145,YARN Scheduler Policies
+517345542477634,Hadoop YARN: Architecture 
+520442945501227,Hive HBase Integration
+521312285414293,Nên cấu hình Heap Size cho Name Node như thế nào?
+523445095201012,Apache Spark Fundamentals - Phần 4: Spark Catalyst Optimizer
+522706788608176,"Đã có ace nào trong group làm 1 hệ thống Big Data vướng phải giới hạn 300 triệu file của HDFS? Nếu đã gặp vấn đề này, xin mời thử khả năng xử lý 1 tỷ file của Ozone. Theo Cloudera, Ozone sẽ khắc phục tất cả những hạn chế của HDFS như giới hạn về số lượng rất lớn các file nhỏ, vấn đề GC, sự ổn định của Name Node, .... Chẳng biết có PR quá không, nhưng muốn verify thì ngại gì không thử :D. "
+522338425311679,Sử dụng tool cho quá trình rebalancing leadership trong Kafka
+529026834642838,"Hnay có bạn nhắn tin hỏi vụ này nên lại đào lại, chia sẻ lại lần nữa cho các chiến sỹ nào chưa kịp đăng ký event ;)Chẳng mấy khi mới free, không biết có phải do Covid19 không . Ace nào quan tâm thì đặt gạch đi nhé. "
+526640784881443,NiFi - Lưu ý khi cấu hình
+526768408202014,Sự ra đời của Kafka Connect 
+526752748203580,APACHE HIVE TUTORIAL
+525963778282477,"Em chào các tiền bối. Em gặp phải một vấn đề cần các ae tư vấn giúp - Mongodb 3.0.15- Elasticsearch 7.6.1- Dữ liệu trong mongodb có nhiều trường được update thường xuyên - Yêu cầu : Quá trình index thường xuyên, liên tục cả, dữ liệu mới và dữ liệu được updateHiện tại em chưa tìm được phương án triển khai. Các ae tư vấn giúp mình với.  "
+526089694936552,YARN Timeline Server
+525514401660748,Apache Ranger - công cụ hỗ trợ Data Security
+519812868897568,Data Lake Vs. Data Warehouse
+515370169341838,Thiết kế kiến trúc dữ liệu trong Data Lake
+527649118113943,"chào mn. mình có cài thingsboard bằng source trên Win10. bây giờ m muốn tích hợp Kafka vào thingsboard, m có xem qua  mà ko biết đúng ko, với m thấy hơi khó. có ai biết chỉ m với ạ. thanks."
+529712657907589,HBase Performance Tuning | Ways For HBase Optimization
+529103151301873,Triển khai ứng dụng và vận hành Data Lake
+531279091084279,Xin chào mọi người. Hiện tại em đang deploy và vận hành Hbase 2.2.4 trên Hadoop 3.2.1 Cluster. Sau khi em start-all.sh và start-hbase.sh. Thì em có check về dịch vụ (jps) và truy cập vào web UI của hbase thì vào được. Nhưng để một xíu tầm 1 2 phút gì đó thì dịch vụ của hbase tự động tắt đột ngột. Em không thể truy cập vào web UI nữa và check dịch vụ thì ko thấy process Hmaster nữa. Mọi người có cách khắc phục nào cho vấn đề này không ạ. Chúc mọi người có một ngày làm việc vui vẻ.
+530387937840061,Hadoop Configuration
+534830204062501,Hiệu năng một hệ thống Data Lake tại Việt Nam
+533389560873232,Data Quality - Các vấn đề chất lượng dữ liệu trong Big Data
+532629834282538,"Chúc mừng sinh nhật 10 năm HBase với những con số thật ấn tượng như một software trong lĩnh vực y tế cài đặt 7,000+ nodes với hơn 70PB dữ liệu, hay một công ty sản xuất điện thoại cài đặt HBase với hơn 6,000 nodes, ... và hàng nghìn tổ chức sử dụng, trong đó có các tên tuổi lớn như Adobe, Airbnb, Alibaba, Bloomberg, Flipkart, HP, Hubspot, IBM, Microsoft, Pinterest, Salesforce, Twitter, ... nhìn thế này mới thấy HBase trong hệ thống mình phát triển còn ""bé"" quá "
+532226917656163,"Bác nào đã triển khai bigdata storage với các công nghệ SAN, VSAN, Hadoop,... xin giúp em 500 review với ạ. Về throughput, availability, fault tolerance,...  Em xin cảm ơn trước ạ :)"
+532275080984680,Apache Spark Fundamentals - Phần 5: Code đi chờ chi
+531996464345875,"#kafka #TrungLe Chào mọi người trong Gr. Mình là thành viên mới, đang tìm hiểu về monitor kafka (prometheus- jmx_exporter). Mình đang đọc rule trong file .yml nhưng mình chưa hiểu các param  của patten được gọi từ đâu ra. Mong mọi người thông não 1 chút. mình cám ơn. - pattern : kafka.server<type=(.+), name=(.+), clientId=(.+), topic=(.+), partition=(.*)><>(Count|Value)   name: kafka_server_$1_$2   labels:     clientId: ""$3""     topic: ""$4""     partition: ""$5"""
+530668151145373,"Chào mọi người, cho mình hỏi đã có ai build code Apache Atlas và contribute chưa ? m cần chỉnh sửa giao diện và một số function nên muốn trao đổi, học hỏi ạ. #QnAApache Atlas -  Khái quát công cụ open-source hỗ trợ Data Governance "
+536713740540814,"APACHE HIVE TUTORIAL - P2
+"
